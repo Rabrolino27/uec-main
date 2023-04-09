@@ -27,7 +27,7 @@
     },
     head(){
       return {
-        title: "Codesk | Contact"
+        title: "UEC | Contact"
       }
     }
   }

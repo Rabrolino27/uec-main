@@ -23,7 +23,7 @@
     },
     head(){
       return {
-        title: "Codesk | Events"
+        title: "UEC | Events"
       }
     }
   }

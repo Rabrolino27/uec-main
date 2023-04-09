@@ -21,7 +21,7 @@
     },
     head(){
       return {
-        title: "Codesk | News Single"
+        title: "UEC | News Single"
       }
     }
   }

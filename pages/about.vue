@@ -37,7 +37,7 @@
     },
     head(){
       return {
-        title: "Codesk | About"
+        title: "UEC | About"
       }
     }
   }

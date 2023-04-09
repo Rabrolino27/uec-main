@@ -21,7 +21,7 @@
     },
     head(){
       return {
-        title: "Codesk | Gallery"
+        title: "UEC | Gallery"
       }
     }
   }
